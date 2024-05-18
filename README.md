@@ -19,7 +19,7 @@ CoinNestify is a single-page website designed to simplify the process of investi
 
 ## Usage
 
-[Invest Now: ](https://toddeversole.github.io/CoinNestify/)
+[Invest Now ](https://toddeversole.github.io/CoinNestify/)
 
 ## Contributing
 
