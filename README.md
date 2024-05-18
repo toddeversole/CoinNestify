@@ -17,17 +17,9 @@ CoinNestify is a single-page website designed to simplify the process of investi
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** [Specify backend technologies here if applicable]
 
-## Getting Started
-
-To get started with CoinNestify locally, follow these steps:
-
-1. Clone this repository.
-2. Navigate to the frontend folder for frontend development or the backend folder for backend development.
-3. [Add any specific instructions for setup or installation here.]
-
 ## Usage
 
-[Invest Now: ](url)
+[Invest Now: ](https://toddeversole.github.io/CoinNestify/)
 
 ## Contributing
 
