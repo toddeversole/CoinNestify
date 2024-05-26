@@ -57,3 +57,34 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* Add styles for investment cards */
+.investment-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.investment-card h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.investment-card button {
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+    font-size: 1em;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.investment-card button:hover {
+    background-color: #0056b3;
+}
